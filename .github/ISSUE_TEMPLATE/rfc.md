@@ -2,7 +2,7 @@
 name: RFC
 about: Describe this issue template's purpose here.
 title: "[RFC] <Please insert descriptive title>"
-labels: rfc
+labels: rfc, proposed
 assignees: ''
 
 ---
