@@ -40,7 +40,7 @@ When
 * the Planned End date has passed;
 * the RFC is either labelled *proposed* (that is, it has not been escalated) or *approved* (it has been escalated and subsequently approved by some TBD decision making body);
 * the assignee judges that positive consensus has been reached; and
-* a set of triggered tickets have been defined
+* a set of GitHub issues to address the RFC have been created
 
 Then 
 * Label the RFC issue as *adopted* 
@@ -51,6 +51,8 @@ Then
 If the RFC cannot be adopted (by consensus, decision of some TBD decision making body, or decision of the Assignee), then you can withdraw the RFC. Assign the *withdraw* label to the RFC issue.
 
 **Implementing an RFC**
+
+You can choose to create a [new Project in this repo](https://github.com/heather999/RequestForComments/projects) to help track the GitHub issues necessary for an RFCs implementation.
 
 Once all the GitHub issues associated with an RFC have been closed, the RFC issue can be labelled as *implemented*.
 
