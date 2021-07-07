@@ -42,6 +42,10 @@ When
 * the assignee judges that positive consensus has been reached; and
 * a set of triggered tickets have been defined
 
+Then 
+* Label the RFC issue as *adopted* 
+* Add the RFC issue to the [*Adopted* Project](https://github.com/heather999/RequestForComments/projects/1)
+
 **Withdrawing an RFC**
 
 If the RFC cannot be adopted (by consensus, decision of some TBD decision making body, or decision of the Assignee), then you can withdraw the RFC. Assign the *withdraw* label to the RFC issue.
