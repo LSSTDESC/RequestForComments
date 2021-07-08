@@ -2,7 +2,7 @@
 
 *Modeled after [DM/Project's Request For Comments](https://developer.lsst.io/communications/rfc.html)*
 
-By creating a Request for Comments (RFC) issue in this repository, you can make a make a proposal, collect feedback, build consensus, adopt a course of action, and track a decision’s implementation.
+By creating a Request for Comments (RFC) issue in this repository, you can make a proposal, collect feedback, build consensus, adopt a course of action, and track a decision’s implementation.
 
 **RFCs are required when**
 * Updating or Deprecating Interfaces, including changes to programming interfaces and removal of packages.
