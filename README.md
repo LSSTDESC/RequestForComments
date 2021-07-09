@@ -5,8 +5,13 @@
 By creating a Request for Comments (RFC) issue in this repository, you can make a proposal, collect feedback, build consensus, adopt a course of action, and track a decision’s implementation.
 
 **RFCs are required when**
+* Proposing a new scheme or methodology that has broad consequences related to DESC Computing.
 * Updating or Deprecating Interfaces, including changes to programming interfaces and removal of packages.
 * TBD
+
+**Overview of the RFC Process**
+
+![image](https://github.com/heather999/RequestForComments/blob/main/RFC-Flow.png)
 
 **General Description of the RFC Process**
 
@@ -24,13 +29,26 @@ The requestor must be especially careful about not making irreversible changes i
 
 **How to start a RFC**
 * Create a [new RFC Issue](https://github.com/heather999/RequestForComments/issues) making sure to provide an adequate description of the situation and proposal as well as a "Planned End" date for comments.
-* Please assign this issue to yourself
+* If you will be responsible for implementing the proposal, assign the issue to yourself.  If you have reached agreement with someone else to take responsibility, assign them.  If it is unclear who will handle the implementation, leave the issue unassigned and the DESC Computing Change Control Board (DCCCB) will identify an assignee.
 * Once the issue is created, a notification will be posted to the #desc-rfc Slack channel
 * All are welcome to comment through the indicated "Planned End" date.
 
+**DESC Computing Change Control Board**
+
+The DESC Computing Change Control Board (DCCCB) responsibilties include:
+* Review all RFCs 
+* Identify an assignee for unassigned RFCs
+* Consider all "escalated" RFCs for approval or withdrawal.
+
+Membership:  
+* Computing Coordinator
+* Deputy Computing Coordinator 
+* Computing Working Group Conveners
+* Computing Deputy Operations Manager
+
 **Escalate a RFC**
 
-We should discuss what "body" would deal with approving escalated RFC.  Could be the WG convener & associated Coordinator
+Anyone, including DCCB members, may "escalate" an RFC if the issue requires an RFC or if the dicussion is failing to reach a consensus.  Escalated RFCs will be considered by the DCCCB for approval or withdrawal. 
 
 **Adoption**
 
@@ -38,7 +56,7 @@ Before an RFC may be adopted, one or more GitHub issues must be created to captu
 
 When
 * the Planned End date has passed;
-* the RFC is either labelled *proposed* (that is, it has not been escalated) or *approved* (it has been escalated and subsequently approved by some TBD decision making body);
+* the RFC is either labelled *proposed* (that is, it has not been escalated) or *approved* (it has been escalated and subsequently approved by the DCCCB);
 * the assignee judges that positive consensus has been reached; and
 * a set of GitHub issues to address the RFC have been created
 
@@ -48,11 +66,11 @@ Then
 
 **Withdrawing an RFC**
 
-If the RFC cannot be adopted (by consensus, decision of some TBD decision making body, or decision of the Assignee), then you can withdraw the RFC. Assign the *withdraw* label to the RFC issue.
+If the RFC cannot be adopted (by consensus, decision of the DCCCB, or decision of the Assignee), then you can withdraw the RFC. Assign the *withdraw* label to the RFC issue.
 
 **Implementing an RFC**
 
-You can choose to create a [new Project in this repo](https://github.com/heather999/RequestForComments/projects) to help track the GitHub issues necessary for an RFCs implementation.
+Create a [new Project in this repo](https://github.com/heather999/RequestForComments/projects) to help track the GitHub issues necessary for an RFCs implementation.
 
-Once all the GitHub issues associated with an RFC have been closed, the RFC issue can be labelled as *implemented*.
+Once all the GitHub issues associated with an RFC have been closed, the RFC issue can be labelled as *implemented* and closed.
 
