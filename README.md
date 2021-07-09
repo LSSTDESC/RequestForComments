@@ -1,4 +1,6 @@
-# RequestForComments
+# DRAFT RequestForComments
+
+## This is a demonstration only and not for actual use within DESC
 
 *Modeled after [DM/Project's Request For Comments](https://developer.lsst.io/communications/rfc.html)*
 
