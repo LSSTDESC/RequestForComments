@@ -2,7 +2,7 @@
 
 ## This is a demonstration only and not for actual use within DESC
 
-Please feel free to open issues for Request For Comments. The individual submitting the request is not expected to take part in the  of the idea presented.
+Please feel free to open issues for Request For Comments. The individual submitting the request is not expected to take part in the  implementation of the idea presented.
 
 By creating a Request for Comments (RFC) issue in this repository, you can make a proposal, collect feedback, build consensus, adopt a course of action, and track a decision’s implementation.
 
@@ -15,7 +15,7 @@ By creating a Request for Comments (RFC) issue in this repository, you can make 
 
 **Adoption**
 
-Before an RFC may be adopted, one or more GitHub issues must be created to capture the work required to implement the RFC’s decision.
+Before an RFC may be adopted, one or more GitHub issues should be created to capture the work required to implement the RFC’s decision.
 
 * Label the RFC issue as *adopted* 
 * Add the RFC issue to the [*Adopted* Project](https://github.com/LSSTDESC/RequestForComments/projects/1)
@@ -26,7 +26,7 @@ If the RFC cannot be adopted, then it can be withdrawn. Assign the *withdraw* la
 
 **Implementing an RFC**
 
-Create a [new Project in this repo](https://github.com/LSSTDESC/RequestForComments/projects) to help track the GitHub issues necessary for an RFCs implementation.
+Create a [new Project in this repo](https://github.com/LSSTDESC/RequestForComments/projects) to help track any GitHub issues necessary for an RFCs implementation.
 
 Once all the GitHub issues associated with an RFC have been closed, the RFC issue can be labelled as *implemented* and closed.
 
