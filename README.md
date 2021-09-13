@@ -2,7 +2,7 @@
 
 ## This is a demonstration only and not for actual use within DESC
 
-Please feel free to open issues for Request For Comments. The individual submitting the request is not expected to take part in the  implementation of the idea presented.
+Please feel free to open issues for Request For Comments. The individual submitting the request is not expected to take part in the implementation of the idea presented.
 
 By creating a Request for Comments (RFC) issue in this repository, you can make a proposal, collect feedback, build consensus, adopt a course of action, and track a decision’s implementation.
 
