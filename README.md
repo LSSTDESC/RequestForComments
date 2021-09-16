@@ -9,7 +9,7 @@ By creating a Request for Comments (RFC) issue in this repository, you can make 
 
 **How to start a RFC**
 * Create a [new RFC Issue](https://github.com/LSSTDESC/RequestForComments/issues) making sure to provide an adequate description of the situation and proposal.
-* Once the issue is created, a notification will be posted to the #desc-rfc Slack channel
+* Once the issue is created, a notification will be posted to the [#desc-co](https://lsstc.slack.com/archives/C2M6H2LAX) Slack channel
 * All are welcome to comment.
 
 
