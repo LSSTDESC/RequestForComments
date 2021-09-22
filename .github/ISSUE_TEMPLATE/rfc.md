@@ -9,8 +9,8 @@ assignees: ''
 
 **Summary**
 
-*Insert Descriptive Summary*
+<!--- Brief summary --->
 
 **Description**
 
-*Insert brief background on why this proposal is being made. Ensure that you clearly state your actual, actionable, proposal.*
+<!-- Insert background on why this proposal is being made. Ensure that you clearly state your actual, actionable, proposal. -->
