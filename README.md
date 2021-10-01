@@ -1,6 +1,6 @@
 # RequestForComments
 
-By creating a Request for Comments (RFC) issue in this repository, you can make a DESC Computing proposal deserving of DESC-wide visibility, collect feedback, build consensus, adopt a course of action, and track a decision’s implementation.
+By creating a Request for Comments (RFC) issue in this repository, you can make a DESC Computing proposal deserving of DESC-wide visibility, collect feedback, build consensus, adopt a course of action, and track implementation.
 
 Some example proposals:
 * add/deprecating packages in the DESC Computing environment
