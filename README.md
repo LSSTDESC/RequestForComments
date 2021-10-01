@@ -37,7 +37,7 @@ Before an RFC may be adopted, one or more GitHub issues should be created to cap
 
 ## Withdrawing an RFC
 
-If the RFC cannot be adopted, then it can be withdrawn. Assign the *withdraw* label to the RFC issue and close.
+If the RFC cannot be adopted, then it can be withdrawn. Assign the *withdraw* label to the RFC issue and closed.
 
 ## Implementing an RFC
 
