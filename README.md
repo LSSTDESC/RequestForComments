@@ -20,7 +20,7 @@ Any DESC member is free to comment on and open an issue for RFC. The individual 
 * If an adopted RFC requires action for implementation, a new Project will be created in this repo
   * Issues will be opened to address all tasks necessary.
   * Once the Project and corresponding issues are closed, the RFC issue will be labelled as "implemented" and closed.
-* The RFC issues in this repository will serve as a searchable record of porpo
+* The RFC issues in this repository will serve as a searchable record of proposals, discussion, and decisions.
 
 ## How to start a RFC
 * Create a [new RFC Issue](https://github.com/LSSTDESC/RequestForComments/issues) making sure to provide an adequate description of the situation and proposal.
