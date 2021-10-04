@@ -7,7 +7,7 @@ Some example proposals:
 * configurations settings for simulations or processing
 * choosing a file format for a particular use-case  
 
-Any DESC member is free to comment on and open an issue for RFC. The individual submitting the RFC is not expected to take part in the implementation of the idea presented.
+Any DESC member is free to comment on and open an issue for RFC. The individual submitting the RFC is not obligated (but is welcome) to take part in the implementation of the idea presented.
 
 ## Outline of the DESC Computing RFC Process
 
